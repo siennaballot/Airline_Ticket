@@ -1,0 +1,20 @@
+﻿  Lab8.c
+c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(56): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(56): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(56): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(56): note: this argument is used as a buffer size
+c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(79): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(79): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(79): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(79): note: this argument is used as a buffer size
+c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(91): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(91): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(91): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(91): note: this argument is used as a buffer size
+c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(242): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(242): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(242): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(242): note: this argument is used as a buffer size
+c:\users\sienna ballot\documents\visual studio 2017\projects\lab8\lab8\lab8.c(148): warning C4715: 'Available': not all control paths return a value
+  Lab8.vcxproj -> C:\Users\Sienna Ballot\Documents\Visual Studio 2017\Projects\Lab8\Debug\Lab8.exe
+  Lab8.vcxproj -> C:\Users\Sienna Ballot\Documents\Visual Studio 2017\Projects\Lab8\Debug\Lab8.pdb (Partial PDB)
